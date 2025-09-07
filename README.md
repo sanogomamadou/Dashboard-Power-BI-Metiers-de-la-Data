@@ -50,7 +50,9 @@ La solution ? Un **tableau de bord interactif et centralisé** qui permet d’an
 ### Page 1 – Vue Globale du Marché
 
 📌 KPIs principaux (nombre de postes, salaire médian, top 10 entreprises qui recrutent, profils les plus demandés).
+
 📌 Carte de réprésentation des postes.
+
 📌 Tableau de vue globale.
 
 ![Screenshot Page 1](screenshotsdash/page1.png)
@@ -61,8 +63,11 @@ La solution ? Un **tableau de bord interactif et centralisé** qui permet d’an
 ### Page 2 – Focus par rôle
 
 📌 Salaires annuels et horaires (médiane).
+
 📌 Part du télétravail, assurance santé, offre sans diplôme exigé.
+
 📌 Répartition des contrats (Full-Time, Part-Time, Contractor).
+
 📌 Carte des localisations.
 
 ![Screenshot Page 2](screenshotsdash/page2.png)
@@ -72,10 +77,15 @@ La solution ? Un **tableau de bord interactif et centralisé** qui permet d’an
 ### Page 3 – Salaires & métiers
 
 📌 Comparaison des salaires médians par pays et rôle data.
+
 📌 Relation entre salaire horaire et salaire annuel par type de poste.
+
 📌 Salaire annuel médian par métier.
+
 📌 Top 10 entreprises qui payent le plus.
+
 📌 Évolution du recrutement par rôle.
+
 📌 Évolution du nombre d'offre de recrutement en 2024.
 
 ![Screenshot Page 3](screenshotsdash/page3.png)
@@ -85,8 +95,11 @@ La solution ? Un **tableau de bord interactif et centralisé** qui permet d’an
 ### Page 4 – Compétences clés
 
 📌 Compétences les plus demandées dans les offres.
+
 📌 Analyse des types de compétences demandés par poste.
+
 📌 Pourcentage d'offres par métier et mention diplôme.
+
 📌 Carte offres par pays selon l’exigence de diplôme.
 
 ![Screenshot Page 4](screenshotsdash/page4.png)
@@ -96,7 +109,9 @@ La solution ? Un **tableau de bord interactif et centralisé** qui permet d’an
 ### Page 5 – Travail & avantages
 
 📌 Part des postes télétravail.
+
 📌 Part des offres avec une assurance santé.
+
 📌 Proportion des offres par type de contrat.
 
 ![Screenshot Page 5](screenshotsdash/page5.png)
@@ -124,8 +139,11 @@ La solution ? Un **tableau de bord interactif et centralisé** qui permet d’an
 ## 📌 Conclusion
 
 Ce projet illustre comment **un workflow hybride (Python + Power BI)** permet de passer :
+
 ➡️ des données brutes,
+
 ➡️ à une analyse exploratoire,
+
 ➡️ puis à un **dashboard clair, interactif et orienté décision**.
 
 Les utilisateurs peuvent ainsi explorer le marché de l’emploi data et orienter leurs choix de carrière sur la base de **salaires, compétences et tendances réelles**.
