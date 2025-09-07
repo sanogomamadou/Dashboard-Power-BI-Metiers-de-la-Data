@@ -56,7 +56,7 @@ La solution ? Un **tableau de bord interactif et centralisé** qui permet d’an
 📌 Tableau de vue globale.
 
 ![Screenshot Page 1](screenshotsdash/page1.png)
-![Screenshot Page 1-details](screenshotsdash/page1-focus.png)
+![Screenshot Page 1-details](screenshotsdash/page1-Focus.png)
 
 ---
 
